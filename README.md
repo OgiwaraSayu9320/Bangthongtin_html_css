@@ -1,1 +1,2 @@
-# Bangthongtin_html_css
+- sử dụng html/css để thiết kế form hiển thị các thông tin cơ bản của bản thân như họ tên, giới tính...
+- từ trang chủ có thể vào trang cv hoặc trang bản thông tin và ngược lại.
