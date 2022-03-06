@@ -1,0 +1,109 @@
+.header {
+  text-align: center;
+}
+.header1 {
+  display: inline-flex;
+}
+.header1 i {
+  font-size: 40px;
+  padding-right: 15px;
+  background: -webkit-linear-gradient(blue 0%, #330867 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.header1 h1 {
+  background: -webkit-linear-gradient(blue 0%, #330867 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+hr {
+  height: 3px;
+  background: linear-gradient(to right, #00b489 0%, #330867 100%);
+}
+
+.home {
+  margin: 15px 20px 20px 25px;
+  font-size: 20px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.home-1 {
+  margin-right: 10px;
+}
+/* xong header */
+
+body {
+  background-image: url(imgbackgrou/Nakano.Nino.full.2864666.jpg);
+  background-size: 90%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: auto;
+}
+.table-home {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.center {
+  border: 1px solid black;
+  width: 1000px;
+  position: static;
+  background: #f5f5f5;
+}
+
+.theb {
+  text-align: center;
+  margin-top: 5%;
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+
+.center ul li {
+  margin-top: 10px;
+  margin-left: 50px;
+  font-size: 18px;
+}
+.table-content {
+  border: 1px solid #330867;
+  text-align: center;
+  font-size: 20px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  background: #1877f2;
+  color: aliceblue;
+}
+.table-content {
+  margin-bottom: 20px;
+}
+
+table,td,th {
+  border-bottom: 2px solid #333;
+  border-collapse: collapse;
+}
+td,th {
+  padding: 6px 20px;
+  text-align: center;
+}
+
+table {
+  margin: auto;
+}
+
+.last{
+  margin-top: 30px;
+}
+#plast{
+  margin-block-end: auto;
+  text-align: end;
+  margin-right: 10px;
+  color: rgb(24, 119, 242);
+  font-size: 18px;
+}
+tr :hover{
+  background-color:rgb(255, 87, 0);
+  cursor:pointer;
+}
+
+
+

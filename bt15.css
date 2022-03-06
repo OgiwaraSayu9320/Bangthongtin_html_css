@@ -1,0 +1,60 @@
+.boderall {
+  border: 1px solid black;
+  width: 800px;
+  background: rgb(245, 245, 245);
+}
+
+body {
+  background: url(imgbackgrou/Nakano.Nino.full.2864666.jpg);
+  background-size: auto;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+hr {
+  height: 1px;
+  background: linear-gradient(to right, #00b489 0%, #330867 100%);
+}
+
+.tbl {
+  display: flex;
+  justify-content: center;
+}
+
+table {
+  border-collapse: separate;
+  border-spacing: 20px 20px;
+}
+
+tr td :hover {
+  color: rgb(65, 0, 147);
+}
+
+.last {
+  margin-block-end: auto;
+  text-align: end;
+  margin-right: 10px;
+  color: rgb(24, 119, 242);
+  font-size: 18px;
+}
+
+.header {
+  height: 50px;
+}
+.header b {
+  margin-top: 15px;
+  font-size: 25px;
+  color: rgb(24, 119, 242);
+}
+
+#i{
+    display: flex;
+    justify-content: center;
+    font-size: 60px;
+}
+i{
+    border:1px solid black;
+    font-size: 80px;
+}
