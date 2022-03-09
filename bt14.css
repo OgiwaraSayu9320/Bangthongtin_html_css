@@ -81,6 +81,11 @@ table,td,th {
   border-bottom: 2px solid #333;
   border-collapse: collapse;
 }
+ tbody :hover{
+  background-color:rgb(255, 87, 0);
+   cursor:pointer;
+} 
+
 td,th {
   padding: 6px 20px;
   text-align: center;
@@ -99,10 +104,6 @@ table {
   margin-right: 10px;
   color: rgb(24, 119, 242);
   font-size: 18px;
-}
-tr :hover{
-  background-color:rgb(255, 87, 0);
-  cursor:pointer;
 }
 
 
